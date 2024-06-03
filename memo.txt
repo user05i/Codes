@@ -1,1 +1,2 @@
 scp -i ../GB_WebServerInMumbai.pem file1.jpg ec2-user@43.204.87.138:/var/www/html/
+git config --global user.email "user05@lttt.info"
